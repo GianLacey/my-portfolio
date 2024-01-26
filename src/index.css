@@ -1,0 +1,28 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+/*GOOGLE FONTS*/
+@import url('https://fonts.googleapis.com/css2?family=Fugaz+One&family=Gruppo&family=Inter+Tight:ital,wght@0,100..900;1,100..900&family=Jura:wght@300..700&display=swap');
+
+/*fontshare FONTS*/
+/*PANCHANG*/
+@import url('https://api.fontshare.com/v2/css?f[]=panchang@200,500,700,300,400,800&display=swap');
+/*SATOSHI*/
+@import url('https://api.fontshare.com/v2/css?f[]=satoshi@900,500,300,401,400&display=swap');
+/*BOXING*/
+@import url("https://api.fontshare.com/v2/css?f[]=boxing@400&display=swap");
+/*QUICKSAND*/
+@import url("https://api.fontshare.com/v2/css?f[]=quicksand@600,700,400,300,500,1&display=swap");
+/*AUTHOR*/
+@import url("https://api.fontshare.com/v2/css?f[]=author@500,600,700&display=swap");
+/*BESPOKE STENCIL*/
+@import url("https://api.fontshare.com/v2/css?f[]=bespoke-stencil@300,700,500&display=swap");
+
+/*@layer components {
+  .clase {
+    @apply estilos taildwind
+  }
+}
+*/
+
+
